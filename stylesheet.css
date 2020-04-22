@@ -68,10 +68,9 @@ header {
 
 /* Tulis css class cta dibawah ini */
 .cta{background:linear-gradient(352.01deg, #2869C2 22.22%, #1DA1F3 85.22%);
-  	position: fixed;
-	width: 100%;
+	width: 1336px;
 	height: 447px;}
-.coba .container{width:1336px;
+.coba .container{width:100%;
 		margin:auto;
 		display:flex;}
 .cta-left{margin-left:100px;
