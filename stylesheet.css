@@ -67,36 +67,38 @@ header {
 
 
 /* Tulis css class cta dibawah ini */
-.cta{background:linear-gradient(352.01deg, #2869C2 22.22%, #1DA1F3 85.22%);
-	
+.cta{
+  background:linear-gradient(352.01deg, #2869C2 22.22%, #1DA1F3 85.22%);
 	width: 100%;
-	height: 447px;
-	color:'white';}
-.coba .container{width:1336px;
-		margin:auto;
-		display:flex;}
-.cta-left{margin-left:100px;
-		width:100%;}
-.cta-right{padding:50px;
-		width:100%;}
-.cta-right iframe{margin-left:50px;
-		margin-top:50px;}
+  padding-top: 120px;
+	color:#fff;}
+.container{
+  width:1200px;
+  margin:auto;
+  display:flex;
+}
+.cta-left{
+  width:100%;
+}
+.cta-right{
+  width:100%;
+}
 .divide-ctaleft{margin-top:64px;
 		display:flex;
 		margin-bottom:94px;}
-.cta-left h3{font-family: 'Montserrat', sans-serif;
+.cta-left h3{font-family: Montserrat, sans-serif;
 			font-style: normal;
-			font-weight: 800;
-			font-size: 60px;
+			font-size: 50px;
 			line-height: 60px;
 			color:#fff;}
 .cta-cont{margin-left:50px;}
-.cta-head h5,.cta-cont h5{font-family: 'Montserrat', sans-serif;
+.cta-head h5,.cta-cont h5{font-family: Montserrat, sans-serif;
 			font-style: normal;
 			font-weight: 600;
 			font-size: 18px;
-			line-height: 22px;}
-.ctadd{font-family: 'Montserrat';
+			line-height: 22px;
+			color:#fff;}
+.ctadd{font-family: Montserrat;
 	font-style: normal;
 	font-weight: 500;
 	font-size: 14px;
