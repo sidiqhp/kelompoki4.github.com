@@ -64,6 +64,248 @@ header {
 
 
 /* Tulis css class our-team dibawah ini */
+.our-team{
+  width: 100%;
+  height: 650px;
+  margin-left: 0px;
+  background: #F7F7F7;
+ 
+
+}
+
+.gambar1{
+  position: absolute;
+  margin-left: 636px;
+  margin-top: 110px;
+  width: 65px;
+  height: 65px;
+}
+
+.gambar2{
+  position: absolute;
+  margin-left: 25px;
+  margin-top: -70px;
+  background: #FFFFFF;
+  
+}
+
+
+.teks-ourteam{
+  width: 251px;
+  height: 35px;
+  margin-left: 560px;
+  margin-top: 210px;
+
+
+  position: absolute;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 110.34%;
+  text-align: center;
+  letter-spacing: -0.5px;
+  color: #232323;
+}
+
+
+.ourlesson{
+   float: left;
+}
+
+.ourlesson-icon{
+   position: relative;
+}
+
+
+.lesson-gambar1{
+  
+  
+  margin-top:300px;
+  width: 167px;
+  height: 240px;
+  margin-left: 180px;
+  margin-right: 50px;
+}
+
+.lesson-gambar2{
+
+width: 55px;
+height: 55px;
+margin-left: 65px;
+margin-top: -230px;
+
+}
+
+.lesson-gambar3{
+  
+  
+  margin-top:300px;
+  width: 167px;
+  height: 240px;
+  margin-left: -20px;
+  margin-right: 50px;
+}
+
+.lesson-gambar4{
+
+width: 55px;
+height: 55px;
+margin-left: 65px;
+margin-top: -230px;
+
+}
+
+.lesson-gambar5{
+  
+  
+  margin-top:300px;
+  width: 167px;
+  height: 240px;
+  margin-left: -20px;
+  margin-right: 50px;
+}
+
+.lesson-gambar6{
+
+width: 55px;
+height: 55px;
+margin-left: 65px;
+margin-top: -230px;
+
+}
+
+.lesson-gambar7{
+  
+  
+  margin-top:300px;
+  width: 167px;
+  height: 240px;
+  margin-left: -20px;
+  margin-right: 50px;
+}
+
+.lesson-gambar8{
+
+width: 55px;
+height: 55px;
+margin-left: 65px;
+margin-top: -230px;
+
+}
+
+.lesson-gambar9{
+  
+  
+  margin-top:300px;
+  width: 167px;
+  height: 240px;
+  margin-left: -20px;
+  margin-right: 50px;
+}
+
+.lesson-gambar10{
+
+width: 55px;
+height: 55px;
+margin-left: 65px;
+margin-top: -230px;
+
+}
+
+.ourlesson-icon h3{
+  position: absolute;
+  margin-left: 63px;
+  margin-top: 20px;
+  width: 46px;
+  height: 70px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 110.34%;
+  text-align: center;
+  letter-spacing: -0.5px;
+
+  color: #232323;
+  
+}
+
+.sidiq{
+   position: absolute;
+
+  margin-top: -150px;
+  margin-left: -10px;
+  color: black;
+}
+
+.savitri{
+  position: absolute;
+
+  margin-left: 7px;
+  color: black;
+
+}
+
+.messager{
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500px;
+  font-size: 12px;
+  line-height: 18px;
+
+
+  text-align: center;
+  letter-spacing: -0.5px;
+
+  color: #232323;
+}
+
+
+.savitri1{
+  position: absolute;
+  width: 59px;
+  height: 36px;
+  margin-left: 60px;
+  margin-top: 70px;
+
+
+}
+
+.hans{
+ position: absolute;
+  width: 79px;
+  height: 36px;
+  margin-left: 57px;
+  margin-top: 70px;
+}
+
+.suciono{
+  position: absolute;
+width: 59px;
+height: 36px;
+margin-left: 67px;
+margin-top: 70px; 
+}
+
+.sidiq1{
+
+  position: absolute;
+  width: 64px;
+  height: 36px;
+  margin-left: 55px;
+  margin-top: 70px;
+}
+
+.suhadi{
+
+  position: absolute;
+  width: 52px;
+  height: 26px;
+  margin-left: 67px;
+  margin-top: 70px;
+
+}
 
 
 /* Tulis css class cta dibawah ini */
