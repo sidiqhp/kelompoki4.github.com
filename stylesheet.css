@@ -61,7 +61,21 @@ header {
 
 
 /* Tulis css class our-portofolio dibawah ini */
-
+<div class="our-portofolio">
+    <div class="container-portofolio">
+      <div class="our-portofolio-right">
+        <img
+          src="https://raw.githubusercontent.com/digitalkominfoi4/kelompoki4.github.com/master/ilustrasi%20our%20portofolio.png">
+      </div>
+      <div class="our-portofolio-left">
+        <img class="logo-mini"
+          src="https://raw.githubusercontent.com/digitalkominfoi4/kelompoki4.github.com/master/logo%20our%20portofolio.png">
+        <div class="text-our-portofolio">Our Portofolio</div>
+        <div class="reason">All applications are made of love and passion. So, more than 10000+ clients have entrusted
+          making applications with us. Be the one to prove it!</div>
+      </div>
+    </div>
+  </div>
 
 /* Tulis css class our-team dibawah ini */
 .our-team{
