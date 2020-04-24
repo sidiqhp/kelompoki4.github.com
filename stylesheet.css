@@ -312,19 +312,25 @@ margin-top: 70px;
 .cta{
   background:linear-gradient(352.01deg, #2869C2 22.22%, #1DA1F3 85.22%);
 	width: 100%;
-  padding-top: 120px;
+	height:447px;
+	padding-top: 120px;;
 	color:#fff;}
-.container{
-  width:1200px;
+.cta-container{
+  width:1336px;
   margin:auto;
-  display:flex;
+  height:100%;
+  /*display:flex;*/
 }
-.cta-left{
+.cta-left, .cta-right{
+  float: left;
+  width: 50%;
+}
+/*.cta-left{
   width:100%;
 }
 .cta-right{
   width:100%;
-}
+}*/
 .divide-ctaleft{margin-top:64px;
 		display:flex;
 		margin-bottom:94px;}
