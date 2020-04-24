@@ -72,7 +72,8 @@ header {
  
 
 }
-
+.ourcontainer{margin:auto;
+	width:1200px;}
 .gambar1{
   position: absolute;
   margin-left: 636px;
