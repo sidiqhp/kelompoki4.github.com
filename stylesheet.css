@@ -325,6 +325,12 @@ margin-top: 70px;
   float: left;
   width: 50%;
 }
+/*.cta-left{
+  width:100%;
+}
+.cta-right{
+  width:100%;
+}*/
 .divide-ctaleft{margin-top:64px;
 		display:flex;
 		margin-bottom:94px;}
