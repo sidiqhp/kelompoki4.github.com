@@ -22,10 +22,29 @@
 
 
 /*Tulis code untuk cta*/
-
-
-
-
+.cta{
+	width: 100%;
+	height:100%;
+	padding-top: 120px;
+	color:#fff;}
+.cta-container{
+	display:normal;
+	width:768px;
+	height:531px;
+	margin-left:48px;
+	padding-top:30px;
+}
+.cta-left, .cta-right{
+	width:100%;
+}
+.cta-left h3{font-family: Montserrat, sans-serif;
+			font-style: normal;
+			font-size: 50px;
+			line-height: 48px;
+			color:#fff;}
+.divide-ctaleft{margin-bottom:54px;}
+.cta-right iframe{width:360px;
+				height:150px;}
 /*Tulis code untuk Footer*/
 
 
